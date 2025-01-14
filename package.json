@@ -1,0 +1,26 @@
+{
+  "name": "uber_clone",
+  "version": "1.0.0",
+  "description": "An uber clone application",
+  "keywords": [
+    "uber",
+    "clone",
+    "ridesharing"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chitransh0052/UberClone.git"
+  },
+  "license": "ISC",
+  "author": "Chitransh Bharadwdaj",
+  "type": "commonjs",
+  "main": "server.js",
+  
+   "scripts": {
+  "start": "node app.js"
+}
+
+
+
+  
+}
